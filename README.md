@@ -12,3 +12,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+### 📌 Projetos em Destaque
+🔹 **[Treino de Java usando métodos](link-projeto)**  
+🔹 **[Lógica com Vetores e Médias](link-projeto)**  
+🔹 **[Sistema Bancário em Java](link-projeto)**
+
+---
+
+### 📊 GitHub Stats
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasFRoma&show_icons=true&theme=github_dark)
