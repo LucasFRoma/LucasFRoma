@@ -1,7 +1,7 @@
 ## 👋 Sou o Lucas!
 
 🎓 Estudante de **Sistemas de Informação** na FIAP  
-💻 Foco em **Java**, **lógica de programação** e **POO**  
+💻 Foco em **Desenvolvimento Web**
 🔐 Interesses: Cibersegurança e criptografia  
 🚀 Aprendendo todos os dias e construindo projetos práticos!
 
